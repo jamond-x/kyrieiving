@@ -1,6 +1,6 @@
 <h1 align="center"> kyrieiving </h1>
 <p align='center'><img src='https://img.shields.io/badge/author-Hueng-yellow'></p>
-<p align='center'><img src='https://img.shields.io/badge/Listen-MIT-yellow'></p>
+<p align='center'><img src='https://img.shields.io/badge/LICENSE-MIT-yellow'></p>
 <p align="center">
 欧文网站简单模仿<br>
 对就是NBA那个欧文<br>  
@@ -21,4 +21,5 @@
 <h2 align="center">效果图</h2>
 <p align="center"><img align="center" src="https://cdn.jsdelivr.net/gh/jamond-x/public-resources/kyrieiving/imitate.gif"/></p>
 <p align="center">GIF图太大，点击<a href="https://cdn.jsdelivr.net/gh/jamond-x/public-resources/kyrieiving/imitate.gif">查看图片</a></p>
+<p align="center">也许换一张清晰的图片更好</p>
 <p align="center"><img align="center" src="https://cdn.jsdelivr.net/gh/jamond-x/public-resources/kyrieiving/imitate.png"/></p>
