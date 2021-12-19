@@ -39,4 +39,9 @@ window.onload = () => {
     let event = document.createEvent("MouseEvents");
      event.initEvent("mouseenter");
      pieces[1].dispatchEvent(event);
+     setTimeout(() => {
+        for(let i = 0; i < 5; i++){
+            pieces[i].className += ' piece-margin'
+        }
+     },1000)
  }

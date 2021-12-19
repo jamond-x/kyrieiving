@@ -36,10 +36,14 @@
     height: 100px;
     color: white;
     transition: all 0.7s ease;
-    margin: 50px;
-    background: url(./img/清晰版.png) no-repeat;
+    background: url(./img/edson.png) no-repeat;
     background-position-x: center;
     cursor: pointer;
+    font-family: Geo;
+}
+
+.piece-margin{
+    margin: 50px;
 }
 
 .piece:hover{
@@ -70,7 +74,7 @@
 
 .two{
     position: relative;
-    background-position-y: 20%;
+    background-position-y: 23%;
 }
 
 .two::after{
@@ -105,7 +109,7 @@
 
 .three{
     position: relative;
-    background-position-y: 42%;
+    background-position-y: 45%;
 
 }
 .three::after{
@@ -141,7 +145,7 @@
 
 .four{
     position: relative;
-    background-position-y: 65%;
+    background-position-y:68%;
 
 }
 .four::after{
@@ -177,7 +181,7 @@
 
 .five{
     position: relative;
-    background-position-y: 98%;
+    background-position-y: 100%;
     height: 155px;
 }
 .five::after{
