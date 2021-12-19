@@ -39,7 +39,6 @@
     background: url(./img/edson.png) no-repeat;
     background-position-x: center;
     cursor: pointer;
-    font-family: Geo;
 }
 
 .piece-margin{
@@ -91,18 +90,17 @@
     left: 30%;
 }
 .two::before{
-    content: url(https://kyrieirving.com/wp-content/themes/kai-theme-1-0-4/assets/kai-head/bg-cyan@2x.png);
-    width: 440px;
-    height: 100px;
-    /* background-color:#d8ecf3 ; */
-    transform: scale(0.44,0.3) rotateX(80deg);
+    content: url(https://kyrieirving.com/wp-content/themes/kai-theme-1-0-4/assets/kai-head/under-circle-cyan.svg);
+    width: 840px;
+    height: 50px;
+    transform: scale(0.44,0.3) rotateX(84deg);
+    transition: all 0.3s;
     position: absolute;
-    top: -97%;
-    left: -23%;
-    display: none;
+    top: -40%;
+    left: -42%;
 }
 .two:hover::before{
-    display: block;
+    transform: scale(0.44,0.3) rotateX(82deg);
 }
 
 
@@ -117,7 +115,7 @@
 }
 
 .three:hover::after{
-    content: "向";
+    content: "XXQ";
     color: #ba3aa9;
     font-weight: 900;
     font-size: 40px;
@@ -126,18 +124,17 @@
     left: 47%;
 }
 .three::before{
-    content: url(https://kyrieirving.com/wp-content/themes/kai-theme-1-0-4/assets/kai-head/bg-purple@2x.png);
-    width: 440px;
-    height: 100px;
-    /* background-color:#d8ecf3 ; */
-    transform: scale(0.44,0.3) rotateX(80deg);
+    content: url(https://kyrieirving.com/wp-content/themes/kai-theme-1-0-4/assets/kai-head/under-circle-blue.svg);
+    width: 890px;
+    height: 50px;
+    transform: scale(0.44,0.3) rotateX(84deg);
+    transition: all 0.3s;
     position: absolute;
-    top: -97%;
-    left: -23%;
-    display: none;
+    top: -40%;
+    left: -47%;
 }
 .three:hover::before{
-    display: block;
+    transform: scale(0.44,0.3) rotateX(82deg);
 }
 
 
@@ -153,7 +150,7 @@
 }
 
 .four:hover::after{
-    content: "兴";
+    content: "BLOG";
     color: #edcc55;
     font-weight: 900;
     font-size: 40px;
@@ -162,18 +159,17 @@
     left: 47%;
 }
 .four::before{
-    content: url(https://kyrieirving.com/wp-content/themes/kai-theme-1-0-4/assets/kai-head/bg-yellow@2x.png);
-    width: 440px;
-    height: 100px;
-    /* background-color:#d8ecf3 ; */
-    transform: scale(0.44,0.3) rotateX(80deg);
+    content: url(https://kyrieirving.com/wp-content/themes/kai-theme-1-0-4/assets/kai-head/under-circle-yellow.svg);
+    width: 970px;
+    height: 50px;
+    transform: scale(0.44,0.3) rotateX(84deg);
+    transition: all 0.3s;
     position: absolute;
-    top: -99%;
-    left: -27%;
-    display: none;
+    top: -40%;
+    left: -58%;
 }
 .four:hover::before{
-    display: block;
+    transform: scale(0.44,0.3) rotateX(82deg);
 }
 
 
@@ -189,7 +185,7 @@
 }
 
 .five:hover::after{
-    content: "强";
+    content: "GITHUB";
     color: #ff273c;
     font-weight: 900;
     font-size: 40px;
@@ -198,18 +194,17 @@
     left: 45%;
 }
 .five::before{
-    content: url(https://kyrieirving.com/wp-content/themes/kai-theme-1-0-4/assets/kai-head/bg-red@2x.png);
-    width: 440px;
-    height: 100px;
-    /* background-color:#d8ecf3 ; */
-    transform: scale(0.32,0.3) rotateX(80deg);
+    content: url(https://kyrieirving.com/wp-content/themes/kai-theme-1-0-4/assets/kai-head/under-circle-red.svg);
+    width: 740px;
+    height: 50px;
+    transform: scale(0.44,0.3) rotateX(84deg);
+    transition: all 0.3s;
     position: absolute;
-    top: -65%;
-    left: -21%;
-    display: none;
+    top: -20%;
+    left: -25%;
 }
 .five:hover::before{
-    display: block;
+    transform: scale(0.44,0.3) rotateX(82deg);
 }
 
 
