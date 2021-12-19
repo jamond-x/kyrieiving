@@ -20,6 +20,6 @@
 <p  align="center" ><img src="https://cdn.jsdelivr.net/gh/jamond-x/public-resources/kyrieiving/kyrieiving.png"/></p>
 <h2 align="center">效果图</h2>
 <p align="center"><img align="center" src="https://cdn.jsdelivr.net/gh/jamond-x/public-resources/kyrieiving/imitate.gif"/></p>
-<p align="center">GIF图太大，点击<a href="https://cdn.jsdelivr.net/gh/jamond-x/public-resources/kyrieiving/imitate.gif">查看图片</a></p>
+<p align="center">GIF图太大，点击<a href="https://cdn.jsdelivr.net/gh/jamond-x/public-resources/kyrieiving/edison_final.gif">查看图片</a></p>
 <p align="center">也许换一张清晰的图片更好</p>
 <p align="center"><img align="center" src="https://cdn.jsdelivr.net/gh/jamond-x/public-resources/kyrieiving/edison_final.png"/></p>
