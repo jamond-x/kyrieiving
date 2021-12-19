@@ -22,4 +22,4 @@
 <p align="center"><img align="center" src="https://cdn.jsdelivr.net/gh/jamond-x/public-resources/kyrieiving/imitate.gif"/></p>
 <p align="center">GIF图太大，点击<a href="https://cdn.jsdelivr.net/gh/jamond-x/public-resources/kyrieiving/imitate.gif">查看图片</a></p>
 <p align="center">也许换一张清晰的图片更好</p>
-<p align="center"><img align="center" src="https://cdn.jsdelivr.net/gh/jamond-x/public-resources/kyrieiving/edson.png"/></p>
+<p align="center"><img align="center" src="https://cdn.jsdelivr.net/gh/jamond-x/public-resources/kyrieiving/edison_final.png"/></p>
