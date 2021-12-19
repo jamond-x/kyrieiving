@@ -1,0 +1,220 @@
+@font-face {
+    font-family: 'Geo';
+    src: url('./font/GEO.otf');
+}
+
+
+
+.container{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: no-repeat;
+    background-position: center;
+    transition: all 0.2s;
+    z-index: 1;
+    opacity: 0.3;
+}
+
+.content{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+
+}
+
+
+.piece{
+    width: 450px;
+    height: 100px;
+    color: white;
+    transition: all 0.7s ease;
+    margin: 50px;
+    background: url(./img/头像_.png) no-repeat;
+    background-position-x: center;
+    cursor: pointer;
+}
+
+.piece:hover{
+    margin-top: 100px;
+    /* height: 150px; */
+    /* transform: scale(1.1); */
+}
+
+
+.one{
+    position: relative;
+    background-position-y: 0%;
+}
+
+.one::after{
+    content: "";
+}
+
+.one:hover::after{
+    content: "HUENG";
+    color: #0071bc;
+    font-weight: 900;
+    font-size: 40px;
+    position: absolute;
+    top: -75%;
+    left: 35%;
+}
+
+.two{
+    position: relative;
+    background-position-y: 25%;
+}
+
+.two::after{
+    content: "";
+}
+
+.two:hover::after{
+    content: "JAMOND";
+    color: #7cbed8;
+    font-weight: 900;
+    font-size: 40px;
+    position: absolute;
+    top: -75%;
+    left: 30%;
+}
+.two::before{
+    content: url(https://kyrieirving.com/wp-content/themes/kai-theme-1-0-4/assets/kai-head/bg-cyan@2x.png);
+    width: 440px;
+    height: 100px;
+    /* background-color:#d8ecf3 ; */
+    transform: scale(0.44,0.3) rotateX(80deg);
+    position: absolute;
+    top: -97%;
+    left: -23%;
+    display: none;
+}
+.two:hover::before{
+    display: block;
+}
+
+
+
+.three{
+    position: relative;
+    background-position-y: 48%;
+
+}
+.three::after{
+    content: "";
+}
+
+.three:hover::after{
+    content: "向";
+    color: #ba3aa9;
+    font-weight: 900;
+    font-size: 40px;
+    position: absolute;
+    top: -75%;
+    left: 47%;
+}
+.three::before{
+    content: url(https://kyrieirving.com/wp-content/themes/kai-theme-1-0-4/assets/kai-head/bg-purple@2x.png);
+    width: 440px;
+    height: 100px;
+    /* background-color:#d8ecf3 ; */
+    transform: scale(0.44,0.3) rotateX(80deg);
+    position: absolute;
+    top: -97%;
+    left: -23%;
+    display: none;
+}
+.three:hover::before{
+    display: block;
+}
+
+
+
+
+.four{
+    position: relative;
+    background-position-y: 68%;
+
+}
+.four::after{
+    content: "";
+}
+
+.four:hover::after{
+    content: "兴";
+    color: #edcc55;
+    font-weight: 900;
+    font-size: 40px;
+    position: absolute;
+    top: -75%;
+    left: 47%;
+}
+.four::before{
+    content: url(https://kyrieirving.com/wp-content/themes/kai-theme-1-0-4/assets/kai-head/bg-yellow@2x.png);
+    width: 440px;
+    height: 100px;
+    /* background-color:#d8ecf3 ; */
+    transform: scale(0.44,0.3) rotateX(80deg);
+    position: absolute;
+    top: -99%;
+    left: -27%;
+    display: none;
+}
+.four:hover::before{
+    display: block;
+}
+
+
+
+
+.five{
+    position: relative;
+    background-position-y: 97%;
+    height: 155px;
+}
+.five::after{
+    content: "";
+}
+
+.five:hover::after{
+    content: "强";
+    color: #ff273c;
+    font-weight: 900;
+    font-size: 40px;
+    position: absolute;
+    top: -50%;
+    left: 45%;
+}
+.five::before{
+    content: url(https://kyrieirving.com/wp-content/themes/kai-theme-1-0-4/assets/kai-head/bg-red@2x.png);
+    width: 440px;
+    height: 100px;
+    /* background-color:#d8ecf3 ; */
+    transform: scale(0.32,0.3) rotateX(80deg);
+    position: absolute;
+    top: -65%;
+    left: -21%;
+    display: none;
+}
+.five:hover::before{
+    display: block;
+}
+
+
+#header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin-left: 100px;
+    margin-top: 50px;
+    font-family: Geo;
+    font-size: 70px;
+}
