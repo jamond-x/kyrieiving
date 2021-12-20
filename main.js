@@ -41,7 +41,7 @@ window.onload = () => {
      pieces[1].dispatchEvent(event);
      setTimeout(() => {
         for(let i = 0; i < 5; i++){
-            pieces[i].className += ' piece-margin'
+            pieces[i].className += ' piece-margin piece-before-show'
         }
      },1000)
  }
